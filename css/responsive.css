@@ -19,7 +19,7 @@
     #header .navbar
     {
         position: absolute;
-        top: 12%;
+        top: 7%;
         left: 3%;
         right: 3%;
         display: flex;
@@ -70,6 +70,16 @@
         margin: 15px 0;
     }
     
+
+    #featured .featured_container .featured_content{
+        margin-left: 0;
+    }
+
+    #featured .see_more_btn{
+        
+        margin-bottom: 30px;
+        margin-right: 20px;
+    }
 
     .popular_box_container{
         grid-template-columns: 1fr;
